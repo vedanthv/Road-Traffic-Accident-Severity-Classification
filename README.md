@@ -1,5 +1,7 @@
 # Road Traffic Severity Classification
 
+![road_traffic](https://user-images.githubusercontent.com/44313631/178222800-9d70bd6a-665a-42ae-84a0-45e0ea25e40a.jpg)
+
 ## Problem Description
 
 Every year the lives of approximately 1.3 million people are cut short as a result of a road traffic crash. Between 20 and 50 million more people suffer non-fatal injuries, with many incurring a disability as a result of their injury.
