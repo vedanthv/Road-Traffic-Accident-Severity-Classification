@@ -1,4 +1,4 @@
-# Road Traffic Severity Classification
+# Road Traffic Accident Severity Classification
 
 ![road_traffic](https://user-images.githubusercontent.com/44313631/178222800-9d70bd6a-665a-42ae-84a0-45e0ea25e40a.jpg)
 
