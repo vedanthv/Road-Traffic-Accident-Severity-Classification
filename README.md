@@ -49,7 +49,9 @@ This dataset is a very interesting and challenging one because there are over **
 
 - Friday has the most number of accidents closely followed by Thursdays
 - Most of the drivers are in the range of 18-30 and 31-50 years
-
+- More than 3000 accidents are caused by automobiles followed by Lorry 
+- Most of the accidents(close to 3250) are caused by the drivers in the experience level of 5-10 years
+- More than 7000 accidents / 130000 accidents are caused by drivers who are Junior high school grads.
 ### Data Pre Processing and Handling Missing Values
 <hr>
 
