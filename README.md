@@ -47,6 +47,9 @@ This dataset is a very interesting and challenging one because there are over **
 ### Exploratory Data Visualization and Analysis
 <hr>
 
+- Friday has the most number of accidents closely followed by Thursdays
+- Most of the drivers are in the range of 18-30 and 31-50 years
+
 ### Data Pre Processing and Handling Missing Values
 <hr>
 
