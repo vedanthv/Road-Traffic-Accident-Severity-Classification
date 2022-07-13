@@ -45,7 +45,6 @@ This dataset is a very interesting and challenging one because there are over **
 <hr>
 
 ### Exploratory Data Visualization and Analysis
-<hr>
 
 - Friday has the most number of accidents closely followed by Thursdays
 - Most of the drivers are in the range of 18-30 and 31-50 years
@@ -55,7 +54,7 @@ This dataset is a very interesting and challenging one because there are over **
 - More than 11000 observations have Male Drivers who caused the accident. This also indicates class imbalance in the dataset
 - Not maintaining distance between vehicle and pedestrian has caused the most accidents caused by sudden lane changes
 - More than 10000 accidents are caused when the owner of the vehicle was riding
-- More than 7000 accidents accur in the evening
+- More than 7000 accidents occur in the evening
 
 
 ### Data Pre Processing and Handling Missing Values
