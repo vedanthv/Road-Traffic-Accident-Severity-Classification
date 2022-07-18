@@ -12,53 +12,6 @@ This data set is collected from Addis Ababa Sub-city police departments for mast
 
 All the sensitive information has been excluded during data encoding and finally it has 32 features and 12316 instances of the accident. Then it is preprocessed and for identification of major causes of the accident by analyzing it using different machine learning classification algorithms. 
 
-## Quick  Overview of the Project
+## Overview of the Project
 
-### Preliminary Data Alalysis
-
-#### Key Observations: 
-
-- There are 32 features in the dataset with 12,136 records. Here is the description of the major features.
-- There are two numerical features `no_of_casulities` and `no_of_vehicles_involved`
-- `defect_of_vehicle` and `Service_year_of_vehicle` has the highest number of missing values.
-- On analyzing the box plots, none of the numerical features happen to have any significant outliers.
-
-This dataset is a very interesting and challenging one because there are over **30 categorical features** with some of the features having more than 20 classes!
-
-`accident_severity` is the target feature and has three classes
-- `slight_injury`
-- `serious_injury`
-- `fatal_injury`
-<br>
-
-**Description of Important Features**
-- time : time of the accident
-- day_of_week : the day in which accident took place
-- age_band_of_driver : the age bracket of the driver
-- sex_of_driver : gender of the driver involved
-- driving_experience : how experienced was the driver
-- type of vehicle : what type of vehicle was involved
-- owner of vehicle : who owned the vehicle?
-- type_of_junction : what was the tpye of junction(Y-junction/T-Junction/U Turn/O-Junction)
-- road_surface_type : what was the type of road(asphalt/gravel)
-
-<hr>
-
-### Exploratory Data Visualization and Analysis
-
-- Friday has the most number of accidents closely followed by Thursdays
-- Most of the drivers are in the range of 18-30 and 31-50 years
-- More than 3000 accidents are caused by automobiles followed by Lorry 
-- Most of the accidents(close to 3250) are caused by the drivers in the experience level of 5-10 years
-- More than 7000 accidents / 130000 accidents are caused by drivers who are Junior high school grads.
-- More than 11000 observations have Male Drivers who caused the accident. This also indicates class imbalance in the dataset
-- Not maintaining distance between vehicle and pedestrian has caused the most accidents caused by sudden lane changes
-- More than 10000 accidents are caused when the owner of the vehicle was riding
-- More than 7000 accidents occur in the evening
-
-
-### Data Pre Processing and Handling Missing Values
-<hr>
-
-### Feature Selection and Handling Imbalanced Dataset
-<hr>
+Read this [blog]("https://vedanthvbaliga.netlify.app/blog/road-traffic-accident-classification/") for a complete understanding of the project right from the preliminary analysis to explanable AI with SHAP! PS : Blog is under draft but you can read it as and when its updated.
